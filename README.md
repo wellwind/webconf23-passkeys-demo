@@ -8,4 +8,5 @@
 
 ## 簡報
 
-Slideshare ▶ https://www.slideshare.net/ssuser35b57e/passkeys-259810514
+* Google Drive ▶ https://drive.google.com/file/d/1x-wY5TDIJj2WOmv5s4-409Y8W21ipChK
+* Slideshare ▶ https://www.slideshare.net/ssuser35b57e/passkeys-259810514
